@@ -1,2 +1,7 @@
-# clone-instagram
-Clono do Instagram- Feito em React
+# Clone do Instagram- Feito em React
+
+Back-end em node JS 
+
+-----------------------------
+Front-end em React
+
